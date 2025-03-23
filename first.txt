@@ -2,3 +2,5 @@ Hello World!!
 Processing!
 
 create an avatar for user
+login
+logout
