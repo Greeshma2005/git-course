@@ -1,6 +1,6 @@
 add and remove users
 change roles
-closing db connection
+closing mysql db connection
 change1
 
 
